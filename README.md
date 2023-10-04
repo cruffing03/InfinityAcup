@@ -1,2 +1,1 @@
-# InfinityAcup
-mockup for ADA-compliant private medical practice website
+# PureHealthCCM, an example of a medical website
