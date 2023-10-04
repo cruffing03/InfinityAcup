@@ -248,7 +248,7 @@ text-align: left;
   justify-content: top;
   margin: 20px;
   width: 500px;
-  height: 610px;
+  height: 625px;
   background-color: beige;
   text-align: center;  
   border-color: #7c7e7d;
@@ -276,7 +276,7 @@ text-align: left;
 .row-box {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   vertical-align: center;
   margin: 10px;
   padding-top: 20px;
