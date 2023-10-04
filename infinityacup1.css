@@ -276,7 +276,7 @@ text-align: left;
 .row-box {
   display: flex;
   flex-direction: column;
-  justify-content: middle;
+  justify-content: space-around;
   vertical-align: center;
   margin: 10px;
   padding-top: 20px;
