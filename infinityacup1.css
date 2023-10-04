@@ -243,7 +243,7 @@ text-align: left;
 
 .box-text-pic {
   display: flex;
-  color: bisque;
+  color: beige;
   flex-direction: column;
   justify-content: top;
   margin: 20px;
