@@ -276,8 +276,8 @@ text-align: left;
 .row-box {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-around;
+  /*  align-items: center;  */
   vertical-align: center;
   margin: 10px;
   padding-top: 20px;
