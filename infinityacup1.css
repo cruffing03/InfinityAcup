@@ -368,6 +368,7 @@ text-align: left;
 }
 
 .home-button {
+  display: block;
   width: fit-content;
   height: 24px;
   font-size: 20px;
