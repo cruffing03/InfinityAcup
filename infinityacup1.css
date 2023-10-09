@@ -270,7 +270,7 @@ text-align: left;
   margin: 10px;
   border-radius: 100%;
   justify-content: space-around;
-  margin-left: auto;
+  margin-left: auto;  /* margin-left and margin-right to this element sets the oval to center justification */
   margin-right: auto;
 }
 
