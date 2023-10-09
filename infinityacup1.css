@@ -112,6 +112,12 @@ li {
   display: table;
 }
 
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
@@ -211,11 +217,7 @@ text-align: left;
   }
   }
 }
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 
 /* flexbox styles */
 .cover {
