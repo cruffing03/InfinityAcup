@@ -369,16 +369,16 @@ text-align: left;
 
 .home-button {
   width: fit-content;
-  height: 20px;
+  height: 24px;
   font-size: 20px;
   float: right;
   margin: 5px;
   margin-right: 200px;
-  background-color: black;
-  color: bisque;
+  background-color: bisque;
+  color: black;
 }
 .home-button a {
   margin: 1px;
   text-decoration: none;
-  color: bisque;
+  color: black;
 }
